@@ -1,0 +1,2 @@
+DB_URL=your_postgres_connection_url
+PORT=4000
